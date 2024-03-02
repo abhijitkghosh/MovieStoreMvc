@@ -2,8 +2,10 @@
 @{
 }
 
-<form class="w-40" asp-action="Add" method="post">
-    <h2 class="pb-10">Add Genre</h2>
+<form class="w-40" asp-action="Update" method="post">
+    <h2 class="pb-10">Update Genre</h2>
+    <input type="hidden" class="input" asp-for="Id">
+
     <div class="input-container">
         <label asp-for="GenreName" class="w-40">GenreName</label>
         <input type="text" class="input" asp-for="GenreName">
