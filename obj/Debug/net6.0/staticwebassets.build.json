@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wVgVWgTeQkj3Sl9dY3DRFgNfyXqdwiQ7bPhg8COSnRM=",
+  "Hash": "Yr5eap2AMwHJZF0PW0AM6TOZbPyqLAiiISrp6v0U0Mg=",
   "Source": "MovieStoreMvc",
   "BasePath": "_content/MovieStoreMvc",
   "Mode": "Default",
@@ -578,6 +578,23 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\65f3edce-57dd-43a0-b352-d3219d818fb9.jpg"
     },
     {
+      "Identity": "E:\\MovieStoreMvc\\MovieStoreMvc\\wwwroot\\Uploads\\6a87c187-bd29-46fb-a59c-20a9d1e46166.jpg",
+      "SourceId": "MovieStoreMvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\MovieStoreMvc\\MovieStoreMvc\\wwwroot\\",
+      "BasePath": "_content/MovieStoreMvc",
+      "RelativePath": "Uploads/6a87c187-bd29-46fb-a59c-20a9d1e46166.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\6a87c187-bd29-46fb-a59c-20a9d1e46166.jpg"
+    },
+    {
       "Identity": "E:\\MovieStoreMvc\\MovieStoreMvc\\wwwroot\\Uploads\\7e9454c0-2127-4e43-920f-2b2dfb96d78a.jpg",
       "SourceId": "MovieStoreMvc",
       "SourceType": "Discovered",
@@ -627,6 +644,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Uploads\\93fedbd4-bd8d-4921-a722-40a9c6bb2c00.jpg"
+    },
+    {
+      "Identity": "E:\\MovieStoreMvc\\MovieStoreMvc\\wwwroot\\Uploads\\95e51ccf-ea1b-41b0-9c19-5b91f00422aa.jpg",
+      "SourceId": "MovieStoreMvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\MovieStoreMvc\\MovieStoreMvc\\wwwroot\\",
+      "BasePath": "_content/MovieStoreMvc",
+      "RelativePath": "Uploads/95e51ccf-ea1b-41b0-9c19-5b91f00422aa.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\95e51ccf-ea1b-41b0-9c19-5b91f00422aa.jpg"
     },
     {
       "Identity": "E:\\MovieStoreMvc\\MovieStoreMvc\\wwwroot\\Uploads\\9d1d7212-d923-40b0-b954-114239a53313.jpg",

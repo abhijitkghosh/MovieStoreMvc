@@ -24,7 +24,7 @@ namespace MovieStoreMvc.Controllers
             model.GenreList = _genService.List().Select(a => new SelectListItem { Text = a.GenreName, Value = a.Id.ToString() });
             return View(model);
         }
-         
+
         [HttpPost]
         public IActionResult Add(Movie model)
         {
@@ -57,7 +57,7 @@ namespace MovieStoreMvc.Controllers
 
         public IActionResult Edit(int id)
         {
-            var model = _movieService.GetById(id);
+            var model = _movieService.GetById (id);
             var selectedGenres = _movieService.GetGenreByMovieId(model.Id);
             MultiSelectList multiGenreList = new MultiSelectList(_genService.List(), "Id", "GenreName", selectedGenres);
             model.MultiGenreList = multiGenreList;
